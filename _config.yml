@@ -34,7 +34,7 @@ collections:
 
 # Navigation bar links.
 navigation:
-  - title: 主页 Home
+  - title: 有趣的灵魂 Interesting Soul
     link: /
   - title: 科研项目 Research
     link: /research.html
