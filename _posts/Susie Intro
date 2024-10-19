@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>我的个人网站</title>
+  <style>
+    #introduction {
+      background-color: #f0f0f0;
+      padding: 20px;
+      border-radius: 5px;
+      margin-bottom: 20px;
+    }
+  </style>
+</head>
+<body>
+
+  <section id="introduction">
+    <h2>个人简介</h2>
+    <p>我的名字是 [你的名字]，我是一名 [你的职业]。我擅长 [你的技能]，对 [你的兴趣] 非常感兴趣。</p>
+    <p>欢迎来到我的个人网站！</p>
+  </section>
+
+  <!-- 其他网站内容 -->
+
+</body>
+</html>
